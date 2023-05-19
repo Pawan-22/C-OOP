@@ -17,7 +17,8 @@ int main()
     // else{
     //     cout<<"You are eligible";
     // }
-// ternary operator
-age<18? cout<<"Not elgibile" : cout<<"Elgibile";
+    
+    // ternary operator
+    age<18? cout<<"Not elgibile" : cout<<"Elgibile";
     return 0;
 }
